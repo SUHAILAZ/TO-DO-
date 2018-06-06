@@ -2,4 +2,7 @@
 
 1.Installation of Debian
 2.Familiarization of terminal commands
-3.Start a new project 
+3.Start a new project
+      a.Come with an idea
+      b.Identify the solutions
+      c.make it happen
